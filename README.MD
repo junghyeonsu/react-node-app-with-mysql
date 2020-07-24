@@ -4,6 +4,32 @@
 
 ### Docker와 docker-compose가 설치가 되어있어야 합니다.
 정말 정말 간단한 mysql과 연결한 react-node web app 입니다.
+---
+전체 파일 구조
+
+* react-nodejs(메인 폴더)<br>
+ * client (클라이언트 폴더)<br>
+     *  create-react-app <br>
+     *  package.json<br>
+     *  package-lock.json<br>
+ *  node-modulesㄴserver (서버 폴더)<br>
+   *   server.js<br>
+    *  package.json<br>
+    *  package-lock.json<br>
+    *  node-modules<br>
+ * package.json<br>
+ * yarn.lock<br>
+<br>
+ 
+react = 3000 port (proxy : 5000포트)<br>
+ node.js = 5000 port<br>
+ mysql = 8080 port<br>
+---
+
+# container로 실행 방법
+
+### Docker와 docker-compose가 설치가 되어있어야 합니다.
+정말 정말 간단한 mysql과 연결한 react-node web app 입니다.
 
 
 
