@@ -1,4 +1,6 @@
-### GIT :  https://github.com/junghyeonsu/react-node-app-with-mysql
+#### GIT :  https://github.com/junghyeonsu/react-node-app-with-mysql
+#### BLOG : https://junghyeonsu.tistory.com/42
+#### DOCKERHUB : https://hub.docker.com/repository/docker/jung660317/react-node-app-with-mysql
 
 ### Docker와 docker-compose가 설치가 되어있어야 합니다.
 정말 정말 간단한 mysql과 연결한 react-node web app 입니다.
