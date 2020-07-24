@@ -12,11 +12,12 @@
      *  create-react-app <br>
      *  package.json<br>
      *  package-lock.json<br>
- *  node-modulesㄴserver (서버 폴더)<br>
+ *  node-modules
+ *server (서버 폴더)<br>
    *   server.js<br>
-    *  package.json<br>
-    *  package-lock.json<br>
-    *  node-modules<br>
+   *  package.json<br>
+   *  package-lock.json<br>
+   *  node-modules<br>
  * package.json<br>
  * yarn.lock<br>
 <br>
